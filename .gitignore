@@ -2,6 +2,8 @@ cred.json
 *.iml
 venv
 .idea
-latex/pdfs/*
+latex/pdfs/*.pdf
+latex/tables/*.tex
+latex/tables/*.aux
 *.pyc
 latex/write.*
